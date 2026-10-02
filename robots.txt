@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Nao indexar a pagina de erro
+Disallow: /404.html
+
+Sitemap: https://codjeremias-cell.github.io/lika/sitemap.xml
